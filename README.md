@@ -1,11 +1,11 @@
-About r-dml
-===========
+About r-dml-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dml-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/terrytangyuan/dml
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dml-feedstock/blob/main/LICENSE.txt)
 
 Summary: The state-of-the-art algorithms for distance metric learning, including global and local methods such as Relevant Component Analysis, Discriminative Component Analysis, Local Fisher Discriminant Analysis, etc. These distance metric learning methods are widely applied in feature extraction, dimensionality reduction, clustering, classification, information retrieval, and computer vision problems.
 
